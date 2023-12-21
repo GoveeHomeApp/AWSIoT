@@ -4,17 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/AWSIoT-umbrella.h</key>
-		<data>
-		u4bNrl2xshyTrx/ew1rivA4cO2I=
-		</data>
 		<key>Headers/AWSIoT.h</key>
 		<data>
-		AAhUq8TbP4rmTT5tzCuRdJGb3xs=
+		xccXJfOL6VXIW1XJT1Yx+WmxAKw=
 		</data>
 		<key>Headers/AWSIoTData.h</key>
 		<data>
-		WatYgvXiS+WMylvzI/4JjYZyHvs=
+		DxG8Zm0H9aTMbcenCC9UWQFykCQ=
 		</data>
 		<key>Headers/AWSIoTDataManager.h</key>
 		<data>
@@ -22,15 +18,15 @@
 		</data>
 		<key>Headers/AWSIoTDataModel.h</key>
 		<data>
-		Vd5FdxbZIlSAKzC3+ToGkeYh3ac=
+		xkFljH7iaMVpn7wVvA0F70Bx5gM=
 		</data>
 		<key>Headers/AWSIoTDataResources.h</key>
 		<data>
-		bXLQMzMrlhAiPZk7JiAlwfcsXXI=
+		UGQnACss8ogPEm0N4yGh2gIbsKw=
 		</data>
 		<key>Headers/AWSIoTDataService.h</key>
 		<data>
-		LNvZ2c6uzcSZ0d/IXU9OOr/72ak=
+		WqlZItLC7RmqAJa6dwhxsYFvbcM=
 		</data>
 		<key>Headers/AWSIoTKeyChainTypes.h</key>
 		<data>
@@ -42,11 +38,7 @@
 		</data>
 		<key>Headers/AWSIoTManager.h</key>
 		<data>
-		owji2GJ9ZIOhwenvndVUXuVq5/s=
-		</data>
-		<key>Headers/AWSIoTMessage+AWSMQTTMessage.h</key>
-		<data>
-		pveskSJ4gbVy3wgbgQiy+1WMuZQ=
+		pGKJ7JWPT/rhd7RbXbyUsfFGwhU=
 		</data>
 		<key>Headers/AWSIoTMessage.h</key>
 		<data>
@@ -54,98 +46,47 @@
 		</data>
 		<key>Headers/AWSIoTModel.h</key>
 		<data>
-		KYa2rXkPn+a8C7smhP38DjfenmI=
+		fCGPOF4gUML9KDRHD9CjSlFqo2s=
 		</data>
 		<key>Headers/AWSIoTResources.h</key>
 		<data>
-		qHBEjTE9O+Tx6N/n/iRcYwIUDaM=
+		7Es608TRnKx1mm0tzOa4XUwGDgc=
 		</data>
 		<key>Headers/AWSIoTService.h</key>
 		<data>
-		f6BjK4O3rMEbVB7Tvnjt3rMS8dc=
-		</data>
-		<key>Headers/AWSMQTTDecoder.h</key>
-		<data>
-		zjMYY3S9kQvE/oRg2IOIElwWCC4=
-		</data>
-		<key>Headers/AWSMQTTEncoder.h</key>
-		<data>
-		v1dpyySxo6dq6whCVJERZdoIeys=
-		</data>
-		<key>Headers/AWSMQTTMessage.h</key>
-		<data>
-		l9UtMAzynJkdy56E8BXthJXsk9I=
-		</data>
-		<key>Headers/AWSMQTTSession.h</key>
-		<data>
-		EiUdMMO0HFLW3KIY+WaaHr39Mkk=
-		</data>
-		<key>Headers/AWSMQttTxFlow.h</key>
-		<data>
-		feg7Z1Cs1TzSfypr+X4j6W4GkHo=
-		</data>
-		<key>Headers/AWSSRWebSocket.h</key>
-		<data>
-		qY67ISFeBapjbqevkaVAY2GRw/s=
+		5+NbtTzdBPkssfx5DeztP5WYVmU=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		19uJ695rYMCjuL7SAhFshzZ9mM4=
+		PJDXK0sIzPuo3UFLiDkL3RXVCxg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		0whMFchPoPnSek0ObSnkWIztx1M=
-		</data>
-		<key>PrivateHeaders/AWSIoTCSR.h</key>
-		<data>
-		vYya9gRPxPQCTjUjDfv9x6X67/c=
-		</data>
-		<key>PrivateHeaders/AWSIoTKeychain.h</key>
-		<data>
-		sXQ/hkct3RSBShAUlLw5yfM+Mnk=
-		</data>
-		<key>PrivateHeaders/AWSIoTMQTTClient.h</key>
-		<data>
-		smdjgVUHgQx7YxgbCaahW1H5w1Q=
-		</data>
-		<key>PrivateHeaders/AWSIoTWebSocketOutputStream.h</key>
-		<data>
-		DweV7SPnpV/QdQztkrvh2Di3Qsk=
+		Wie5yEDIpnxCeZrFH96FsTjt470=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/AWSIoT-umbrella.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			u4bNrl2xshyTrx/ew1rivA4cO2I=
-			</data>
-			<key>hash2</key>
-			<data>
-			J03bMleb86fLE6fb7i7A/M8b6H8axFYYEIZX+sWj0sQ=
-			</data>
-		</dict>
 		<key>Headers/AWSIoT.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AAhUq8TbP4rmTT5tzCuRdJGb3xs=
+			xccXJfOL6VXIW1XJT1Yx+WmxAKw=
 			</data>
 			<key>hash2</key>
 			<data>
-			XfmJwjEA8J13KVWaJKdFAUjxJqmP4X6YnuSWsdLEtKg=
+			caXB54jswABST8m2jhmxbanV0KzPJ04K1NxjovYWr+g=
 			</data>
 		</dict>
 		<key>Headers/AWSIoTData.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WatYgvXiS+WMylvzI/4JjYZyHvs=
+			DxG8Zm0H9aTMbcenCC9UWQFykCQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			STk04OCdDoJI3L+b7eqCFzhz5UiqoEDoqZ524OOXgpg=
+			75Z6lG1MuoLFCYiugBluuYOCVzV2oXuqZr6T7uPhAh8=
 			</data>
 		</dict>
 		<key>Headers/AWSIoTDataManager.h</key>
@@ -163,33 +104,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Vd5FdxbZIlSAKzC3+ToGkeYh3ac=
+			xkFljH7iaMVpn7wVvA0F70Bx5gM=
 			</data>
 			<key>hash2</key>
 			<data>
-			D9UiOL7ik6dWr+3x6GfS4k7jzP4mW5FgVxhcKwKcdv0=
+			pFWJKLPur2qwkdciMSBXmfs2IZuys3jDHFcuenoIdZU=
 			</data>
 		</dict>
 		<key>Headers/AWSIoTDataResources.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bXLQMzMrlhAiPZk7JiAlwfcsXXI=
+			UGQnACss8ogPEm0N4yGh2gIbsKw=
 			</data>
 			<key>hash2</key>
 			<data>
-			5FQ4hvY4UcmLPYplNXSh3DL97aJCYi2Lk5v0jAH2czY=
+			inAdrzl3bB6Yf82RJ1ZUHaEvtxyxi0DrCiqLlF2qFyI=
 			</data>
 		</dict>
 		<key>Headers/AWSIoTDataService.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LNvZ2c6uzcSZ0d/IXU9OOr/72ak=
+			WqlZItLC7RmqAJa6dwhxsYFvbcM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xr1l6hJe24NVChNWflNpIsw12oiw0IC/qmfkdwh87OM=
+			2nii3aN+7ndpwGsLtT8ORHodD84wjkFd68zSRHg54oY=
 			</data>
 		</dict>
 		<key>Headers/AWSIoTKeyChainTypes.h</key>
@@ -218,22 +159,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			owji2GJ9ZIOhwenvndVUXuVq5/s=
+			pGKJ7JWPT/rhd7RbXbyUsfFGwhU=
 			</data>
 			<key>hash2</key>
 			<data>
-			bY54OTR/n6FWRSA8shTJLm+K5TWzVlqURufXUgt3doA=
-			</data>
-		</dict>
-		<key>Headers/AWSIoTMessage+AWSMQTTMessage.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			pveskSJ4gbVy3wgbgQiy+1WMuZQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			nXMdRCfzcX7oML5uAMrccWMXb0e5UdvK2HzScg4veeQ=
+			tpjp/E96sE7HmtW/NjEthRW+804P/w1e3bsg0AwLg4g=
 			</data>
 		</dict>
 		<key>Headers/AWSIoTMessage.h</key>
@@ -251,154 +181,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KYa2rXkPn+a8C7smhP38DjfenmI=
+			fCGPOF4gUML9KDRHD9CjSlFqo2s=
 			</data>
 			<key>hash2</key>
 			<data>
-			BlykARKEcRMP4vK0lqS5fBv8M1jt0R+utpHeeoZU3t8=
+			eor+rPaHCxvilcdExUNFBJ8zEqlt6G6/DYFM05lpY5Q=
 			</data>
 		</dict>
 		<key>Headers/AWSIoTResources.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qHBEjTE9O+Tx6N/n/iRcYwIUDaM=
+			7Es608TRnKx1mm0tzOa4XUwGDgc=
 			</data>
 			<key>hash2</key>
 			<data>
-			jQ2T20H/Sln7kCXRqVE3QO9ov+UdU1u73vXJvi1ZAAk=
+			+fDir0ZjGlR8osOHxW+AREe7N6ZFWX+ujvXuLVrkJXI=
 			</data>
 		</dict>
 		<key>Headers/AWSIoTService.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			f6BjK4O3rMEbVB7Tvnjt3rMS8dc=
+			5+NbtTzdBPkssfx5DeztP5WYVmU=
 			</data>
 			<key>hash2</key>
 			<data>
-			jBoq6+OTJruutM4/GKbdQxdo8lNPehzAfIMUuT/MJsM=
-			</data>
-		</dict>
-		<key>Headers/AWSMQTTDecoder.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			zjMYY3S9kQvE/oRg2IOIElwWCC4=
-			</data>
-			<key>hash2</key>
-			<data>
-			yTaIeGIQ4dvpSQedFhEEfBKpY7tAZiyYe3GYv1T60Ug=
-			</data>
-		</dict>
-		<key>Headers/AWSMQTTEncoder.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			v1dpyySxo6dq6whCVJERZdoIeys=
-			</data>
-			<key>hash2</key>
-			<data>
-			sjLk2Z52rAJgCz2iUxS8y30JUA3uq6Xh7ObiF6QybSw=
-			</data>
-		</dict>
-		<key>Headers/AWSMQTTMessage.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			l9UtMAzynJkdy56E8BXthJXsk9I=
-			</data>
-			<key>hash2</key>
-			<data>
-			QRRgcJx6TeIQJJfRxISz2ADbV4wSyolXf+wEjenTs98=
-			</data>
-		</dict>
-		<key>Headers/AWSMQTTSession.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EiUdMMO0HFLW3KIY+WaaHr39Mkk=
-			</data>
-			<key>hash2</key>
-			<data>
-			dwaUl8EJ797FiB+75gSWp7UrJMXGasCMEv1ecSHJ+p0=
-			</data>
-		</dict>
-		<key>Headers/AWSMQttTxFlow.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			feg7Z1Cs1TzSfypr+X4j6W4GkHo=
-			</data>
-			<key>hash2</key>
-			<data>
-			phYFgYQ9Zo0D+nLopZOcLXBpySqVaioZwBAOjd9S6AI=
-			</data>
-		</dict>
-		<key>Headers/AWSSRWebSocket.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qY67ISFeBapjbqevkaVAY2GRw/s=
-			</data>
-			<key>hash2</key>
-			<data>
-			QCq6ng3os362o9RBTdqD7Ah89wW00tu3bsAE9brclEo=
+			lgv0SWjNjF+BBrV8DiYE0EdLloobwG0pHxxZxJq4K34=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0whMFchPoPnSek0ObSnkWIztx1M=
+			Wie5yEDIpnxCeZrFH96FsTjt470=
 			</data>
 			<key>hash2</key>
 			<data>
-			/ylCc+pzJaEkfnR0aYEFdAGHnyk4OSu2E7hC2u7e9Qw=
-			</data>
-		</dict>
-		<key>PrivateHeaders/AWSIoTCSR.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			vYya9gRPxPQCTjUjDfv9x6X67/c=
-			</data>
-			<key>hash2</key>
-			<data>
-			G3tysqdjohaAqBit1weRY9Hg3oMX1sF1m5xbYcQinK8=
-			</data>
-		</dict>
-		<key>PrivateHeaders/AWSIoTKeychain.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sXQ/hkct3RSBShAUlLw5yfM+Mnk=
-			</data>
-			<key>hash2</key>
-			<data>
-			CTgFh0pu4XQr2s++XbEv0MW/1aeuonYtBYUEKEWlT/A=
-			</data>
-		</dict>
-		<key>PrivateHeaders/AWSIoTMQTTClient.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			smdjgVUHgQx7YxgbCaahW1H5w1Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			qIILj8NCEpOd1wnYOxM2LjXb8khbgGYjYYrdby58BVU=
-			</data>
-		</dict>
-		<key>PrivateHeaders/AWSIoTWebSocketOutputStream.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DweV7SPnpV/QdQztkrvh2Di3Qsk=
-			</data>
-			<key>hash2</key>
-			<data>
-			eBk+0mqf1CHJrLU3/tujGjWXU4oWGt//CzbuTRPd6/k=
+			/jS+b4hPjnKJFHqaERZyXLYfcw6rhkXMEUdry1XG8mk=
 			</data>
 		</dict>
 	</dict>

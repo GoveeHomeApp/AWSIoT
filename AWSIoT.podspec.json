@@ -1,6 +1,6 @@
 {
   "name": "AWSIoT",
-  "version": "2.28.5",
+  "version": "2.33.7",
   "summary": "Amazon Web Services SDK for iOS.",
   "description": "The AWS SDK for iOS provides a library, code samples, and documentation for developers to build connected mobile applications using AWS.",
   "homepage": "http://aws.amazon.com/mobile/sdk",
@@ -13,13 +13,12 @@
   },
   "source": {
     "git": "https://github.com/aws-amplify/aws-sdk-ios.git",
-    "tag": "2.28.5"
+    "tag": "2.33.7"
   },
   "requires_arc": true,
-  "static_framework": true,
   "dependencies": {
     "AWSCore": [
-      "2.28.5"
+      "2.33.7"
     ]
   },
   "vendored_frameworks": "AWSIoT.xcframework",

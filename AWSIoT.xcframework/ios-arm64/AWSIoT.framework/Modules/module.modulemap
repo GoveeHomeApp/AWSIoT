@@ -1,5 +1,5 @@
 framework module AWSIoT {
-  umbrella header "AWSIoT-umbrella.h"
+  umbrella header "AWSIoT.h"
 
   export *
   module * { export * }
